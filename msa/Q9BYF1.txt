@@ -1,0 +1,1205 @@
+ID   ACE2_HUMAN              Reviewed;         805 AA.
+AC   Q9BYF1; C7ECU1; Q6UWP0; Q86WT0; Q9NRA7; Q9UFZ6;
+DT   02-AUG-2005, integrated into UniProtKB/Swiss-Prot.
+DT   02-AUG-2005, sequence version 2.
+DT   17-JUN-2020, entry version 180.
+DE   RecName: Full=Angiotensin-converting enzyme 2;
+DE            EC=3.4.17.23 {ECO:0000269|PubMed:10924499, ECO:0000269|PubMed:11815627, ECO:0000269|PubMed:19021774};
+DE   AltName: Full=Angiotensin-converting enzyme homolog {ECO:0000303|PubMed:10924499};
+DE            Short=ACEH {ECO:0000303|PubMed:10924499};
+DE   AltName: Full=Angiotensin-converting enzyme-related carboxypeptidase {ECO:0000303|PubMed:10969042};
+DE            Short=ACE-related carboxypeptidase;
+DE            EC=3.4.17.- {ECO:0000269|PubMed:10924499, ECO:0000269|PubMed:10969042, ECO:0000269|PubMed:11815627, ECO:0000269|PubMed:19021774, ECO:0000269|PubMed:27217402, ECO:0000269|PubMed:28293165};
+DE   AltName: Full=Metalloprotease MPROT15 {ECO:0000303|Ref.6};
+DE   Contains:
+DE     RecName: Full=Processed angiotensin-converting enzyme 2 {ECO:0000303|PubMed:24227843};
+DE   Flags: Precursor;
+GN   Name=ACE2 {ECO:0000312|HGNC:HGNC:13557}; ORFNames=UNQ868/PRO1885;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), TISSUE SPECIFICITY, FUNCTION,
+RP   ACTIVITY REGULATION, CATALYTIC ACTIVITY, AND SUBSTRATE SPECIFICITY.
+RC   TISSUE=Heart;
+RX   PubMed=10969042; DOI=10.1161/01.res.87.5.e1;
+RA   Donoghue M., Hsieh F., Baronas E., Godbout K., Gosselin M., Stagliano N.,
+RA   Donovan M., Woolf B., Robison K., Jeyaseelan R., Breitbart R.E., Acton S.;
+RT   "A novel angiotensin-converting enzyme-related carboxypeptidase (ACE2)
+RT   converts angiotensin I to angiotensin 1-9.";
+RL   Circ. Res. 87:E1-E9(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), TISSUE SPECIFICITY, GLYCOSYLATION,
+RP   FUNCTION, ACTIVITY REGULATION, AND CATALYTIC ACTIVITY.
+RC   TISSUE=Lymphoma;
+RX   PubMed=10924499; DOI=10.1074/jbc.m002615200;
+RA   Tipnis S.R., Hooper N.M., Hyde R., Karran E., Christie G., Turner A.J.;
+RT   "A human homolog of angiotensin-converting enzyme. Cloning and functional
+RT   expression as a captopril-insensitive carboxypeptidase.";
+RL   J. Biol. Chem. 275:33238-33243(2000).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), ACTIVITY REGULATION, SUBCELLULAR
+RP   LOCATION, AND TISSUE SPECIFICITY.
+RC   TISSUE=Testis;
+RX   PubMed=15231706; DOI=10.1210/en.2004-0443;
+RA   Douglas G.C., O'Bryan M.K., Hedger M.P., Lee D.K.L., Yarski M.A.,
+RA   Smith A.I., Lew R.A.;
+RT   "The novel angiotensin-converting enzyme (ACE) homolog, ACE2, is
+RT   selectively expressed by adult Leydig cells of the testis.";
+RL   Endocrinology 145:4703-4711(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANT SER-638.
+RC   TISSUE=Lung, and Testis;
+RX   PubMed=15937940; DOI=10.1002/ajmg.a.30779;
+RA   Itoyama S., Keicho N., Hijikata M., Quy T., Phi N.C., Long H.T., Ha L.D.,
+RA   Ban V.V., Matsushita I., Yanai H., Kirikae F., Kirikae T., Kuratsuji T.,
+RA   Sasazuki T.;
+RT   "Identification of an alternative 5'-untranslated exon and new
+RT   polymorphisms of angiotensin-converting enzyme 2 gene: lack of association
+RT   with SARS in the Vietnamese population.";
+RL   Am. J. Med. Genet. A 136:52-57(2005).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Suzuki Y., Watanabe M., Sugano S.;
+RT   "Cloning, expression analysis and chromosomal localization of a novel ACE
+RT   like enzyme.";
+RL   Submitted (JUL-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RA   Southan C., Burgess N.;
+RT   "MPROT15 polypeptide and MPROT15 polynucleotide.";
+RL   Patent number CA2248987, 13-NOV-1999.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Li K.K.B., Yip C.W., Hon C.C., Lam C.Y., Leung F.C.C.;
+RT   "Comparative susceptibility to SARS-CoV mediated by ACE2 protein of 15
+RT   different species.";
+RL   Submitted (JUN-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).
+RX   PubMed=12975309; DOI=10.1101/gr.1293003;
+RA   Clark H.F., Gurney A.L., Abaya E., Baker K., Baldwin D.T., Brush J.,
+RA   Chen J., Chow B., Chui C., Crowley C., Currell B., Deuel B., Dowd P.,
+RA   Eaton D., Foster J.S., Grimaldi C., Gu Q., Hass P.E., Heldens S., Huang A.,
+RA   Kim H.S., Klimowski L., Jin Y., Johnson S., Lee J., Lewis L., Liao D.,
+RA   Mark M.R., Robbie E., Sanchez C., Schoenfeld J., Seshagiri S., Simmons L.,
+RA   Singh J., Smith V., Stinson J., Vagts A., Vandlen R.L., Watanabe C.,
+RA   Wieand D., Woods K., Xie M.-H., Yansura D.G., Yi S., Yu G., Yuan J.,
+RA   Zhang M., Zhang Z., Goddard A.D., Wood W.I., Godowski P.J., Gray A.M.;
+RT   "The secreted protein discovery initiative (SPDI), a large-scale effort to
+RT   identify novel human secreted and transmembrane proteins: a bioinformatics
+RT   assessment.";
+RL   Genome Res. 13:2265-2270(2003).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT ARG-26.
+RG   SeattleSNPs variation discovery resource;
+RL   Submitted (JAN-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [11]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain, and Testis;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [12]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 2-805 (ISOFORM 1).
+RC   TISSUE=Testis;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [13]
+RP   PROTEIN SEQUENCE OF 679-689, IDENTIFICATION BY MASS SPECTROMETRY, AND
+RP   INTERACTION WITH ITGB1.
+RX   PubMed=15276642; DOI=10.1016/j.bbadis.2004.05.005;
+RA   Lin Q., Keller R.S., Weaver B., Zisman L.S.;
+RT   "Interaction of ACE2 and integrin beta1 in failing human heart.";
+RL   Biochim. Biophys. Acta 1689:175-178(2004).
+RN   [14]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=12459472; DOI=10.1016/s0014-5793(02)03640-2;
+RA   Harmer D., Gilbert M., Borman R., Clark K.L.;
+RT   "Quantitative mRNA expression profiling of ACE 2, a novel homologue of
+RT   angiotensin converting enzyme.";
+RL   FEBS Lett. 532:107-110(2002).
+RN   [15]
+RP   ACTIVITY REGULATION.
+RX   PubMed=12358520; DOI=10.1021/ja0277226;
+RA   Dales N.A., Gould A.E., Brown J.A., Calderwood E.F., Guan B., Minor C.A.,
+RA   Gavin J.M., Hales P., Kaushik V.K., Stewart M., Tummino P.J., Vickers C.S.,
+RA   Ocain T.D., Patane M.A.;
+RT   "Substrate-based design of the first class of angiotensin-converting
+RT   enzyme-related carboxypeptidase (ACE2) inhibitors.";
+RL   J. Am. Chem. Soc. 124:11852-11853(2002).
+RN   [16]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, SUBSTRATE
+RP   SPECIFICITY, ACTIVITY REGULATION, AND COFACTOR.
+RX   PubMed=11815627; DOI=10.1074/jbc.m200581200;
+RA   Vickers C., Hales P., Kaushik V., Dick L., Gavin J., Tang J., Godbout K.,
+RA   Parsons T., Baronas E., Hsieh F., Acton S., Patane M.A., Nichols A.,
+RA   Tummino P.;
+RT   "Hydrolysis of biological peptides by human angiotensin-converting enzyme-
+RT   related carboxypeptidase.";
+RL   J. Biol. Chem. 277:14838-14843(2002).
+RN   [17]
+RP   FUNCTION, CATALYTIC ACTIVITY, AND INDUCTION.
+RX   PubMed=14504186; DOI=10.1161/01.cir.0000094734.67990.99;
+RA   Zisman L.S., Keller R.S., Weaver B., Lin Q., Speth R., Bristow M.R.,
+RA   Canver C.C.;
+RT   "Increased angiotensin-(1-7)-forming activity in failing human heart
+RT   ventricles: evidence for upregulation of the angiotensin-converting enzyme
+RT   Homologue ACE2.";
+RL   Circulation 108:1707-1712(2003).
+RN   [18]
+RP   FUNCTION (MICROBIAL INFECTION), INTERACTION WITH SARS-COV SPIKE
+RP   GLYCOPROTEIN (MICROBIAL INFECTION), GLYCOSYLATION, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY.
+RX   PubMed=14647384; DOI=10.1038/nature02145;
+RA   Li W., Moore M.J., Vasilieva N., Sui J., Wong S.-K., Berne M.A.,
+RA   Somasundaran M., Sullivan J.L., Luzuriaga K., Greenough T.C., Choe H.,
+RA   Farzan M.;
+RT   "Angiotensin-converting enzyme 2 is a functional receptor for the SARS
+RT   coronavirus.";
+RL   Nature 426:450-454(2003).
+RN   [19]
+RP   INDUCTION.
+RX   PubMed=15151696; DOI=10.1186/1741-7015-2-19;
+RA   Goulter A.B., Goddard M.J., Allen J.C., Clark K.L.;
+RT   "ACE2 gene expression is up-regulated in the human failing heart.";
+RL   BMC Med. 2:19-19(2004).
+RN   [20]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=15141377; DOI=10.1002/path.1570;
+RA   Hamming I., Timens W., Bulthuis M.L.C., Lely A.T., Navis G.J., van Goor H.;
+RT   "Tissue distribution of ACE2 protein, the functional receptor for SARS
+RT   coronavirus. A first step in understanding SARS pathogenesis.";
+RL   J. Pathol. 203:631-637(2004).
+RN   [21]
+RP   FUNCTION (MICROBIAL INFECTION), AND INTERACTION WITH SARS-COV SPIKE
+RP   GLYCOPROTEIN (MICROBIAL INFECTION).
+RX   PubMed=15452268; DOI=10.1128/jvi.78.20.11429-11433.2004;
+RA   Li W., Greenough T.C., Moore M.J., Vasilieva N., Somasundaran M.,
+RA   Sullivan J.L., Farzan M., Choe H.;
+RT   "Efficient replication of severe acute respiratory syndrome coronavirus in
+RT   mouse cells is limited by murine angiotensin-converting enzyme 2.";
+RL   J. Virol. 78:11429-11433(2004).
+RN   [22]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-90.
+RC   TISSUE=Bile;
+RX   PubMed=15084671; DOI=10.1074/mcp.m400015-mcp200;
+RA   Kristiansen T.Z., Bunkenborg J., Gronborg M., Molina H., Thuluvath P.J.,
+RA   Argani P., Goggins M.G., Maitra A., Pandey A.;
+RT   "A proteomic analysis of human bile.";
+RL   Mol. Cell. Proteomics 3:715-728(2004).
+RN   [23]
+RP   TISSUE SPECIFICITY, AND INDUCTION.
+RX   PubMed=15671045; DOI=10.1093/eurheartj/ehi114;
+RA   Burrell L.M., Risvanis J., Kubota E., Dean R.G., MacDonald P.S., Lu S.,
+RA   Tikellis C., Grant S.L., Lew R.A., Smith A.I., Cooper M.E., Johnston C.I.;
+RT   "Myocardial infarction increases ACE2 expression in rat and humans.";
+RL   Eur. Heart J. 26:369-375(2005).
+RN   [24]
+RP   FUNCTION (MICROBIAL INFECTION), INTERACTION WITH SARS-COV SPIKE
+RP   GLYCOPROTEIN (MICROBIAL INFECTION), AND MUTAGENESIS.
+RX   PubMed=15791205; DOI=10.1038/sj.emboj.7600640;
+RA   Li W., Zhang C., Sui J., Kuhn J.H., Moore M.J., Luo S., Wong S.-K.,
+RA   Huang I.-C., Xu K., Vasilieva N., Murakami A., He Y., Marasco W.A.,
+RA   Guan Y., Choe H., Farzan M.;
+RT   "Receptor and viral determinants of SARS-coronavirus adaptation to human
+RT   ACE2.";
+RL   EMBO J. 24:1634-1643(2005).
+RN   [25]
+RP   PROTEOLYTIC CLEAVAGE, AND SUBCELLULAR LOCATION.
+RX   PubMed=15983030; DOI=10.1074/jbc.m505111200;
+RA   Lambert D.W., Yarski M., Warner F.J., Thornhill P., Parkin E.T.,
+RA   Smith A.I., Hooper N.M., Turner A.J.;
+RT   "Tumor necrosis factor-alpha convertase (ADAM17) mediates regulated
+RT   ectodomain shedding of the severe-acute respiratory syndrome-coronavirus
+RT   (SARS-CoV) receptor, angiotensin-converting enzyme-2 (ACE2).";
+RL   J. Biol. Chem. 280:30113-30119(2005).
+RN   [26]
+RP   FUNCTION (MICROBIAL INFECTION), AND INTERACTION WITH HCOV-NL63 SPIKE
+RP   GLYCOPROTEIN (MICROBIAL INFECTION).
+RX   PubMed=15897467; DOI=10.1073/pnas.0409465102;
+RA   Hofmann H., Pyrc K., van der Hoek L., Geier M., Berkhout B., Poehlmann S.;
+RT   "Human coronavirus NL63 employs the severe acute respiratory syndrome
+RT   coronavirus receptor for cellular entry.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:7988-7993(2005).
+RN   [27]
+RP   FUNCTION, ACTIVE SITE, AND MUTAGENESIS OF ARG-273; HIS-345 AND HIS-505.
+RX   PubMed=16008552; DOI=10.1111/j.1742-4658.2005.04756.x;
+RA   Guy J.L., Jackson R.M., Jensen H.A., Hooper N.M., Turner A.J.;
+RT   "Identification of critical active-site residues in angiotensin-converting
+RT   enzyme-2 (ACE2) by site-directed mutagenesis.";
+RL   FEBS J. 272:3512-3520(2005).
+RN   [28]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, ACTIVITY
+RP   REGULATION, AND MUTAGENESIS OF ARG-169; TRP-271; LYS-481 AND ARG-514.
+RX   PubMed=19021774; DOI=10.1111/j.1742-4658.2008.06733.x;
+RA   Rushworth C.A., Guy J.L., Turner A.J.;
+RT   "Residues affecting the chloride regulation and substrate selectivity of
+RT   the angiotensin-converting enzymes (ACE and ACE2) identified by site-
+RT   directed mutagenesis.";
+RL   FEBS J. 275:6033-6042(2008).
+RN   [29]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RX   PubMed=18424768; DOI=10.1096/fj.08-107300;
+RA   Kowalczuk S., Broeer A., Tietze N., Vanslambrouck J.M., Rasko J.E.,
+RA   Broeer S.;
+RT   "A protein complex in the brush-border membrane explains a Hartnup disorder
+RT   allele.";
+RL   FASEB J. 22:2880-2887(2008).
+RN   [30]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-546.
+RC   TISSUE=Liver;
+RX   PubMed=19159218; DOI=10.1021/pr8008012;
+RA   Chen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.;
+RT   "Glycoproteomics analysis of human liver tissue by combination of multiple
+RT   enzyme digestion and hydrazide chemistry.";
+RL   J. Proteome Res. 8:651-661(2009).
+RN   [31]
+RP   FUNCTION, AND MUTAGENESIS OF ARG-273.
+RX   PubMed=19185582; DOI=10.1053/j.gastro.2008.10.055;
+RA   Camargo S.M., Singer D., Makrides V., Huggel K., Pos K.M., Wagner C.A.,
+RA   Kuba K., Danilczyk U., Skovby F., Kleta R., Penninger J.M., Verrey F.;
+RT   "Tissue-specific amino acid transporter partners ACE2 and collectrin
+RT   differentially interact with hartnup mutations.";
+RL   Gastroenterology 136:872-882(2009).
+RN   [32]
+RP   PROTEOLYTIC CLEAVAGE.
+RX   PubMed=21563828; DOI=10.1021/bi200525y;
+RA   Lai Z.W., Hanchapola I., Steer D.L., Smith A.I.;
+RT   "Angiotensin-converting enzyme 2 ectodomain shedding cleavage-site
+RT   identification: determinants and constraints.";
+RL   Biochemistry 50:5182-5194(2011).
+RN   [33]
+RP   SUBCELLULAR LOCATION, PROTEOLYTIC CLEAVAGE, AND INTERACTION WITH TMPRSS2.
+RX   PubMed=21068237; DOI=10.1128/jvi.02062-10;
+RA   Shulla A., Heald-Sargent T., Subramanya G., Zhao J., Perlman S.,
+RA   Gallagher T.;
+RT   "A transmembrane serine protease is linked to the severe acute respiratory
+RT   syndrome coronavirus receptor and activates virus entry.";
+RL   J. Virol. 85:873-882(2011).
+RN   [34]
+RP   FUNCTION (MICROBIAL INFECTION), SUBCELLULAR LOCATION, AND PROTEOLYTIC
+RP   CLEAVAGE.
+RX   PubMed=24227843; DOI=10.1128/jvi.02202-13;
+RA   Heurich A., Hofmann-Winkler H., Gierer S., Liepold T., Jahn O.,
+RA   Poehlmann S.;
+RT   "TMPRSS2 and ADAM17 cleave ACE2 differentially and only proteolysis by
+RT   TMPRSS2 augments entry driven by the severe acute respiratory syndrome
+RT   coronavirus spike protein.";
+RL   J. Virol. 88:1293-1307(2014).
+RN   [35]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, 3D-STRUCTURE
+RP   MODELING, AND ACTIVE SITE.
+RX   PubMed=27217402; DOI=10.1161/hypertensionaha.115.06892;
+RA   Wang W., McKinnie S.M., Farhan M., Paul M., McDonald T., McLean B.,
+RA   Llorens-Cortes C., Hazra S., Murray A.G., Vederas J.C., Oudit G.Y.;
+RT   "Angiotensin-Converting Enzyme 2 Metabolizes and Partially Inactivates Pyr-
+RT   Apelin-13 and Apelin-17: Physiological Effects in the Cardiovascular
+RT   System.";
+RL   Hypertension 68:365-377(2016).
+RN   [36]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=28293165; DOI=10.3389/fnins.2017.00092;
+RA   Yang P., Kuc R.E., Brame A.L., Dyson A., Singer M., Glen R.C., Cheriyan J.,
+RA   Wilkinson I.B., Davenport A.P., Maguire J.J.;
+RT   "[Pyr1]Apelin-13(1-12) Is a Biologically Active ACE2 Metabolite of the
+RT   Endogenous Cardiovascular Peptide [Pyr1]Apelin-13.";
+RL   Front. Neurosci. 11:92-92(2017).
+RN   [37]
+RP   FUNCTION (MICROBIAL INFECTION).
+RX   PubMed=32142651; DOI=10.1016/j.cell.2020.02.052;
+RA   Hoffmann M., Kleine-Weber H., Schroeder S., Krueger N., Herrler T.,
+RA   Erichsen S., Schiergens T.S., Herrler G., Wu N.H., Nitsche A.,
+RA   Mueller M.A., Drosten C., Poehlmann S.;
+RT   "SARS-CoV-2 cell entry depends on ACE2 and TMPRSS2 and is blocked by a
+RT   clinically proven protease inhibitor.";
+RL   Cell 181:1-10(2020).
+RN   [38]
+RP   INTERACTION WITH SARS-COV-2 SPIKE GLYCOPROTEIN (MICROBIAL INFECTION).
+RX   PubMed=32075877; DOI=10.1126/science.abb2507;
+RA   Wrapp D., Wang N., Corbett K.S., Goldsmith J.A., Hsieh C.L., Abiona O.,
+RA   Graham B.S., McLellan J.S.;
+RT   "Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation.";
+RL   Science 367:1260-1263(2020).
+RN   [39]
+RP   FUNCTION (MICROBIAL INFECTION), AND INTERACTION WITH SARS-COV-2 SPIKE
+RP   GLYCOPROTEIN (MICROBIAL INFECTION).
+RX   PubMed=32155444; DOI=10.1016/j.cell.2020.02.058;
+RA   Walls A.C., Park Y.J., Tortorici M.A., Wall A., McGuire A.T., Veesler D.;
+RT   "Structure, function, and antigenicity of the SARS-CoV-2 spike
+RT   glycoprotein.";
+RL   Cell 180:1-12(2020).
+RN   [40] {ECO:0000244|PDB:1R42, ECO:0000244|PDB:1R4L}
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 1-615 IN COMPLEXES WITH ZINC;
+RP   CHLORIDE AND MLN-4760 INHIBITOR, DOMAIN, REACTION MECHANISM, ACTIVE SITE,
+RP   DISULFIDE BONDS, AND GLYCOSYLATION AT ASN-53; ASN-90; ASN-103; ASN-322;
+RP   ASN-432 AND ASN-546.
+RX   PubMed=14754895; DOI=10.1074/jbc.m311191200;
+RA   Towler P., Staker B., Prasad S.G., Menon S., Tang J., Parsons T., Ryan D.,
+RA   Fisher M., Williams D., Dales N.A., Patane M.A., Pantoliano M.W.;
+RT   "ACE2 X-ray structures reveal a large hinge-bending motion important for
+RT   inhibitor binding and catalysis.";
+RL   J. Biol. Chem. 279:17996-18007(2004).
+RN   [41] {ECO:0000244|PDB:2AJF}
+RP   X-RAY CRYSTALLOGRAPHY (2.90 ANGSTROMS) OF 19-615 IN COMPLEX WITH ZINC, AND
+RP   GLYCOSYLATION AT ASN-53; ASN-90; ASN-322 AND ASN-546.
+RX   PubMed=16166518; DOI=10.1126/science.1116480;
+RA   Li F., Li W., Farzan M., Harrison S.C.;
+RT   "Structure of SARS coronavirus spike receptor-binding domain complexed with
+RT   receptor.";
+RL   Science 309:1864-1868(2005).
+RN   [42] {ECO:0000244|PDB:6ACG, ECO:0000244|PDB:6ACJ, ECO:0000244|PDB:6ACK}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (4.20 ANGSTROMS) OF 19-615.
+RX   PubMed=30102747; DOI=10.1371/journal.ppat.1007236;
+RA   Song W., Gui M., Wang X., Xiang Y.;
+RT   "Cryo-EM structure of the SARS coronavirus spike glycoprotein in complex
+RT   with its host cell receptor ACE2.";
+RL   PLoS Pathog. 14:e1007236-e1007236(2018).
+RN   [43] {ECO:0000244|PDB:6CS2}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (4.40 ANGSTROMS) OF 19-615.
+RX   PubMed=30356097; DOI=10.1038/s41598-018-34171-7;
+RA   Kirchdoerfer R.N., Wang N., Pallesen J., Wrapp D., Turner H.L.,
+RA   Cottrell C.A., Corbett K.S., Graham B.S., McLellan J.S., Ward A.B.;
+RT   "Stabilized coronavirus spikes are resistant to conformational changes
+RT   induced by receptor recognition or proteolysis.";
+RL   Sci. Rep. 8:15701-15701(2018).
+RN   [44] {ECO:0000244|PDB:6M17, ECO:0000244|PDB:6M18, ECO:0000244|PDB:6M1D}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (2.90 ANGSTROMS) OF 18-805, INTERACTION
+RP   WITH SARS-COV-2 SPIKE GLYCOPROTEIN (MICROBIAL INFECTION), INTERACTION WITH
+RP   SLC6A19, SUBUNIT, AND PROTEOLYTIC CLEAVAGE.
+RX   PubMed=32132184; DOI=10.1126/science.abb2762;
+RA   Yan R., Zhang Y., Li Y., Xia L., Guo Y., Zhou Q.;
+RT   "Structural basis for the recognition of the SARS-CoV-2 by full-length
+RT   human ACE2.";
+RL   Science 0:0-0(2020).
+CC   -!- FUNCTION: Essential counter-regulatory carboxypeptidase of the renin-
+CC       angiotensin hormone system that is a critical regulator of blood
+CC       volume, systemic vascular resistance, and thus cardiovascular
+CC       homeostasis (PubMed:27217402). Converts angiotensin I to angiotensin 1-
+CC       9, a nine-amino acid peptide with anti-hypertrophic effects in
+CC       cardiomyocytes, and angiotensin II to angiotensin 1-7, which then acts
+CC       as a beneficial vasodilator and anti-proliferation agent,
+CC       counterbalancing the actions of the vasoconstrictor angiotensin II
+CC       (PubMed:10969042, PubMed:10924499, PubMed:11815627, PubMed:19021774,
+CC       PubMed:14504186). Also removes the C-terminal residue from three other
+CC       vasoactive peptides, neurotensin, kinetensin, and des-Arg bradykinin,
+CC       but is not active on bradykinin (PubMed:10969042, PubMed:11815627).
+CC       Also cleaves other biological peptides, such as apelins (apelin-13,
+CC       [Pyr1]apelin-13, apelin-17, apelin-36), casomorphins (beta-casomorphin-
+CC       7, neocasomorphin) and dynorphin A with high efficiency
+CC       (PubMed:11815627, PubMed:27217402, PubMed:28293165). In addition, ACE2
+CC       C-terminus is homologous to collectrin and is responsible for the
+CC       trafficking of the neutral amino acid transporter SL6A19 to the plasma
+CC       membrane of gut epithelial cells via direct interaction, regulating its
+CC       expression on the cell surface and its catalytic activity
+CC       (PubMed:18424768, PubMed:19185582). {ECO:0000269|PubMed:10924499,
+CC       ECO:0000269|PubMed:10969042, ECO:0000269|PubMed:11815627,
+CC       ECO:0000269|PubMed:14504186, ECO:0000269|PubMed:18424768,
+CC       ECO:0000269|PubMed:19021774, ECO:0000269|PubMed:19185582,
+CC       ECO:0000269|PubMed:27217402}.
+CC   -!- FUNCTION: (Microbial infection) Acts as a receptor for human
+CC       coronaviruses SARS-CoV and SARS-CoV-2, as well as human coronavirus
+CC       NL63/HCoV-NL63. {ECO:0000269|PubMed:14647384,
+CC       ECO:0000269|PubMed:15452268, ECO:0000269|PubMed:15791205,
+CC       ECO:0000269|PubMed:15897467, ECO:0000269|PubMed:24227843,
+CC       ECO:0000269|PubMed:32142651, ECO:0000269|PubMed:32155444}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=angiotensin II + H2O = angiotensin-(1-7) + L-phenylalanine;
+CC         Xref=Rhea:RHEA:26554, ChEBI:CHEBI:15377, ChEBI:CHEBI:58095,
+CC         ChEBI:CHEBI:58506, ChEBI:CHEBI:58922; EC=3.4.17.23;
+CC         Evidence={ECO:0000269|PubMed:10924499, ECO:0000269|PubMed:11815627,
+CC         ECO:0000269|PubMed:19021774, ECO:0000305|PubMed:14504186};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:26555;
+CC         Evidence={ECO:0000269|PubMed:14504186};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=angiotensin I + H2O = angiotensin-(1-9) + L-leucine;
+CC         Xref=Rhea:RHEA:63532, ChEBI:CHEBI:15377, ChEBI:CHEBI:57427,
+CC         ChEBI:CHEBI:147350, ChEBI:CHEBI:147351;
+CC         Evidence={ECO:0000269|PubMed:10924499, ECO:0000269|PubMed:10969042,
+CC         ECO:0000269|PubMed:11815627, ECO:0000269|PubMed:19021774};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:63533;
+CC         Evidence={ECO:0000305|PubMed:10924499, ECO:0000305|PubMed:10969042,
+CC         ECO:0000305|PubMed:11815627, ECO:0000305|PubMed:19021774};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=[des-Arg(9)]-bradykinin + H2O = [des-Phe(8), des-Arg(9)]-
+CC         bradykinin + L-phenylalanine; Xref=Rhea:RHEA:63536,
+CC         ChEBI:CHEBI:15377, ChEBI:CHEBI:58095, ChEBI:CHEBI:133069,
+CC         ChEBI:CHEBI:147352; Evidence={ECO:0000269|PubMed:10969042,
+CC         ECO:0000269|PubMed:11815627};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:63537;
+CC         Evidence={ECO:0000305|PubMed:10969042, ECO:0000305|PubMed:11815627};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=H2O + neurotensin = L-leucine + neurotensin-(1-12);
+CC         Xref=Rhea:RHEA:63540, ChEBI:CHEBI:15377, ChEBI:CHEBI:57427,
+CC         ChEBI:CHEBI:147362, ChEBI:CHEBI:147363;
+CC         Evidence={ECO:0000269|PubMed:10969042};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:63541;
+CC         Evidence={ECO:0000305|PubMed:10969042};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=H2O + neurotensin-(1-8) = L-arginine + neurotensin-(1-7);
+CC         Xref=Rhea:RHEA:63572, ChEBI:CHEBI:15377, ChEBI:CHEBI:32682,
+CC         ChEBI:CHEBI:147393, ChEBI:CHEBI:147394;
+CC         Evidence={ECO:0000269|PubMed:11815627};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:63573;
+CC         Evidence={ECO:0000305|PubMed:11815627};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=H2O + kinetensin = kinetensin-(1-8) + L-leucine;
+CC         Xref=Rhea:RHEA:63544, ChEBI:CHEBI:15377, ChEBI:CHEBI:57427,
+CC         ChEBI:CHEBI:147364, ChEBI:CHEBI:147365;
+CC         Evidence={ECO:0000269|PubMed:10969042};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:63545;
+CC         Evidence={ECO:0000305|PubMed:10969042};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=dynorphin A-(1-13) + H2O = dynorphin A-(1-12) + L-lysine;
+CC         Xref=Rhea:RHEA:63556, ChEBI:CHEBI:15377, ChEBI:CHEBI:32551,
+CC         ChEBI:CHEBI:147381, ChEBI:CHEBI:147383;
+CC         Evidence={ECO:0000269|PubMed:11815627};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:63557;
+CC         Evidence={ECO:0000305|PubMed:11815627};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=apelin-13 + H2O = apelin-12 + L-phenylalanine;
+CC         Xref=Rhea:RHEA:63564, ChEBI:CHEBI:15377, ChEBI:CHEBI:58095,
+CC         ChEBI:CHEBI:147395, ChEBI:CHEBI:147396;
+CC         Evidence={ECO:0000269|PubMed:11815627};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:63565;
+CC         Evidence={ECO:0000305|PubMed:11815627};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=[Pyr1]apelin-13 + H2O = [Pyr1]apelin-12 + L-phenylalanine;
+CC         Xref=Rhea:RHEA:63604, ChEBI:CHEBI:15377, ChEBI:CHEBI:58095,
+CC         ChEBI:CHEBI:147415, ChEBI:CHEBI:147416;
+CC         Evidence={ECO:0000269|PubMed:27217402, ECO:0000269|PubMed:28293165};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:63605;
+CC         Evidence={ECO:0000269|PubMed:27217402};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=apelin-17 + H2O = apelin-16 + L-phenylalanine;
+CC         Xref=Rhea:RHEA:63608, ChEBI:CHEBI:15377, ChEBI:CHEBI:58095,
+CC         ChEBI:CHEBI:147421, ChEBI:CHEBI:147422;
+CC         Evidence={ECO:0000269|PubMed:27217402};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:63609;
+CC         Evidence={ECO:0000269|PubMed:27217402};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=beta-casomorphin-7 + H2O = beta-casomorphin-6 + L-isoleucine;
+CC         Xref=Rhea:RHEA:63568, ChEBI:CHEBI:15377, ChEBI:CHEBI:58045,
+CC         ChEBI:CHEBI:147390, ChEBI:CHEBI:147391;
+CC         Evidence={ECO:0000269|PubMed:11815627};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:63569;
+CC         Evidence={ECO:0000305|PubMed:11815627};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=H2O + neocasomorphin = L-isoleucine + neocasomorphin-(1-5);
+CC         Xref=Rhea:RHEA:63600, ChEBI:CHEBI:15377, ChEBI:CHEBI:58045,
+CC         ChEBI:CHEBI:147417, ChEBI:CHEBI:147418;
+CC         Evidence={ECO:0000269|PubMed:11815627};
+CC       PhysiologicalDirection=left-to-right; Xref=Rhea:RHEA:63601;
+CC         Evidence={ECO:0000305|PubMed:11815627};
+CC   -!- COFACTOR:
+CC       Name=Zn(2+); Xref=ChEBI:CHEBI:29105;
+CC         Evidence={ECO:0000269|PubMed:11815627};
+CC       Note=Binds 1 zinc ion per subunit. {ECO:0000269|PubMed:11815627};
+CC   -!- COFACTOR:
+CC       Name=chloride; Xref=ChEBI:CHEBI:17996;
+CC         Evidence={ECO:0000269|PubMed:11815627};
+CC       Note=Binds 1 Cl(-) ion per subunit. {ECO:0000269|PubMed:11815627};
+CC   -!- ACTIVITY REGULATION: Regulated by chloride and fluoride, but not
+CC       bromide (PubMed:11815627). Chloride increases angiotensin I and
+CC       decreases angiotensin II cleavage (PubMed:19021774). Inhibited by MLN-
+CC       4760, cFP_Leu, and EDTA (PubMed:15231706, PubMed:10924499), but not by
+CC       the ACE inhibitors lisinopril, captopril and enalaprilat
+CC       (PubMed:10969042, PubMed:10924499). Highly potent and selective in
+CC       vitro ACE2 inhibitors were identified (PubMed:12358520).
+CC       {ECO:0000269|PubMed:10924499, ECO:0000269|PubMed:10969042,
+CC       ECO:0000269|PubMed:11815627, ECO:0000269|PubMed:12358520,
+CC       ECO:0000269|PubMed:15231706, ECO:0000269|PubMed:19021774}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=6.9 uM for angiotensin I {ECO:0000269|PubMed:11815627};
+CC         KM=2.0 uM for angiotensin II {ECO:0000269|PubMed:11815627};
+CC         KM=6.8 uM for apelin-13 {ECO:0000269|PubMed:11815627};
+CC         KM=290 uM for [des-Arg(9)]-bradykinin {ECO:0000269|PubMed:11815627};
+CC         KM=130 uM for Lys-[des-Arg(9)]-bradykinin
+CC         {ECO:0000269|PubMed:11815627};
+CC         KM=31 uM for beta-casomorphin {ECO:0000269|PubMed:11815627};
+CC         KM=5.5 uM for dynorphin A-(1-13) {ECO:0000269|PubMed:11815627};
+CC         KM=300 uM for neurotensin-(1-8) {ECO:0000269|PubMed:11815627};
+CC         KM=58.6 uM for angiotensin II {ECO:0000269|PubMed:19021774};
+CC         KM=12 uM for [Pyr1]apelin-13 {ECO:0000269|PubMed:27217402};
+CC         KM=19 uM for apelin-17 {ECO:0000269|PubMed:27217402};
+CC         Vmax=28.7 nmol/min/mg enzyme with angiotensin II as substrate
+CC         {ECO:0000269|PubMed:19021774};
+CC         Note=kcat is 0.034 sec(-1) with angiotensin I as substrate. kcat is
+CC         3.5 sec(-1) with angiotensin II as substrate. kcat is 13 sec(-1) with
+CC         apelin-13 as substrate. kcat is 62 sec(-1) with [des-Arg(9)]-
+CC         bradykinin as substrate. kcat is 26 sec(-1) with Lys-[des-Arg(9)]-
+CC         bradykinin as substrate. kcat is 6.8 sec(-1) with beta-casomorphin as
+CC         substrate. kcat is 16 sec(-1) with dynorphin A-(1-13) as substrate.
+CC         kcat is 57 sec(-1) with neurotensin-(1-8) as substrate
+CC         (PubMed:11815627). kcat is 19.1 sec(-1) with [Pyr1]apelin-13 as
+CC         substrate. kcat is 7.7 sec(-1) with apelin-17 as substrate
+CC         (PubMed:27217402). {ECO:0000269|PubMed:11815627,
+CC         ECO:0000269|PubMed:27217402};
+CC       pH dependence:
+CC         Optimum pH is 6.5 in the presence of 1 M NaCl. Active from pH 6 to 9.
+CC         {ECO:0000269|PubMed:11815627};
+CC   -!- SUBUNIT: Homodimer (PubMed:32132184). Interacts with ITGB1
+CC       (PubMed:15276642). Interacts with the catalytically active form of
+CC       TMPRSS2 (PubMed:21068237). Interacts with SLC6A19; this interaction is
+CC       essential for expression and function of SLC6A19 in intestine (By
+CC       similarity). {ECO:0000250|UniProtKB:Q8R0I0,
+CC       ECO:0000269|PubMed:15276642, ECO:0000269|PubMed:21068237,
+CC       ECO:0000269|PubMed:32132184}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with SARS coronavirus/SARS-CoV
+CC       spike protein. {ECO:0000269|PubMed:14647384,
+CC       ECO:0000269|PubMed:15452268, ECO:0000269|PubMed:15791205}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with SARS coronavirus-2/SARS-
+CC       CoV-2 spike protein. {ECO:0000269|PubMed:32075877,
+CC       ECO:0000269|PubMed:32132184, ECO:0000269|PubMed:32155444}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with human coronavirus
+CC       NL63/HCoV-NL63 spike glycoprotein. {ECO:0000269|PubMed:15897467}.
+CC   -!- INTERACTION:
+CC       Q9BYF1; PRO_0000032457 [P01019]: AGT; NbExp=2; IntAct=EBI-7730807, EBI-25493366;
+CC       Q9BYF1; PRO_0000006688 [P01042]: KNG1; NbExp=2; IntAct=EBI-7730807, EBI-6623273;
+CC       Q9BYF1; PRO_0000019524 [P30990]: NTS; NbExp=2; IntAct=EBI-7730807, EBI-6655817;
+CC       Q9BYF1; Q695T7: SLC6A19; NbExp=3; IntAct=EBI-7730807, EBI-25475705;
+CC       Q9BYF1; O15393: TMPRSS2; NbExp=3; IntAct=EBI-7730807, EBI-12549863;
+CC       Q9BYF1; P59594: S; Xeno; NbExp=7; IntAct=EBI-7730807, EBI-15582614;
+CC       Q9BYF1; PRO_0000037209 [P59594]: S; Xeno; NbExp=2; IntAct=EBI-7730807, EBI-25475261;
+CC       Q9BYF1; P0DTC2; Xeno; NbExp=11; IntAct=EBI-7730807, EBI-25474821;
+CC       Q9BYF1-1; P59594: S; Xeno; NbExp=2; IntAct=EBI-15814450, EBI-15582614;
+CC       Q9BYF1-1; Q6Q1S2: S; Xeno; NbExp=3; IntAct=EBI-15814450, EBI-15814420;
+CC   -!- SUBCELLULAR LOCATION: [Processed angiotensin-converting enzyme 2]:
+CC       Secreted {ECO:0000269|PubMed:15983030}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:18424768};
+CC       Single-pass type I membrane protein {ECO:0000255}. Cytoplasm
+CC       {ECO:0000250|UniProtKB:Q8R0I0}. Note=Detected in both cell membrane and
+CC       cytoplasm in neurons. {ECO:0000250|UniProtKB:Q8R0I0}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q9BYF1-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q9BYF1-2; Sequence=VSP_014901, VSP_014902;
+CC   -!- TISSUE SPECIFICITY: Expressed in endothelial cells from small and large
+CC       arteries, and in arterial smooth muscle cells (at protein level)
+CC       (PubMed:15141377). Expressed in lung alveolar epithelial cells,
+CC       enterocytes of the small intestine, Leydig cells and Sertoli cells (at
+CC       protein level) (PubMed:15141377). Expressed in the renal proximal
+CC       tubule and the small intestine (at protein level) (PubMed:18424768).
+CC       Expressed in heart, kidney, testis, and gastrointestinal system
+CC       (PubMed:10969042, PubMed:10924499, PubMed:15231706, PubMed:12459472,
+CC       PubMed:15671045). {ECO:0000269|PubMed:10924499,
+CC       ECO:0000269|PubMed:10969042, ECO:0000269|PubMed:12459472,
+CC       ECO:0000269|PubMed:15141377, ECO:0000269|PubMed:15231706,
+CC       ECO:0000269|PubMed:15671045, ECO:0000269|PubMed:18424768}.
+CC   -!- INDUCTION: Up-regulated in failing heart. {ECO:0000269|PubMed:14504186,
+CC       ECO:0000269|PubMed:15151696, ECO:0000269|PubMed:15671045}.
+CC   -!- DOMAIN: The extracellular region of the ACE2 enzyme is composed of two
+CC       domains. The first is a zinc metallopeptidase domain (residues 19-611).
+CC       The second domain is located at the C-terminus (residues 612-740) and
+CC       is 48% identical to human collectrin. {ECO:0000269|PubMed:14754895}.
+CC   -!- PTM: N-glycosylation on Asn-90 may limit SARS infectivity.
+CC       {ECO:0000269|PubMed:10924499, ECO:0000269|PubMed:14647384,
+CC       ECO:0000269|PubMed:14754895, ECO:0000269|PubMed:15084671,
+CC       ECO:0000269|PubMed:19159218}.
+CC   -!- PTM: Proteolytic cleavage by ADAM17 generates a secreted form
+CC       (PubMed:15983030). Also cleaved by serine proteases: TMPRSS2, TMPRSS11D
+CC       and HPN/TMPRSS1. {ECO:0000269|PubMed:15983030,
+CC       ECO:0000269|PubMed:21068237, ECO:0000269|PubMed:21563828,
+CC       ECO:0000269|PubMed:24227843, ECO:0000269|PubMed:32132184}.
+CC   -!- SIMILARITY: Belongs to the peptidase M2 family. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=SeattleSNPs;
+CC       URL="http://pga.gs.washington.edu/data/ace2/";
+CC   -!- WEB RESOURCE: Name=Protein Spotlight; Note=A way in - Issue 223 of
+CC       March 2020;
+CC       URL="https://web.expasy.org/spotlight/back_issues/223/";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AF291820; AAF99721.1; -; mRNA.
+DR   EMBL; AF241254; AAF78220.1; -; mRNA.
+DR   EMBL; AY623811; AAT45083.1; -; mRNA.
+DR   EMBL; AB193259; BAD99266.1; -; mRNA.
+DR   EMBL; AB193260; BAD99267.1; -; mRNA.
+DR   EMBL; AB046569; BAB40370.1; -; mRNA.
+DR   EMBL; E39033; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; GQ262784; ACT66268.1; -; mRNA.
+DR   EMBL; AY358714; AAQ89076.1; -; mRNA.
+DR   EMBL; AY217547; AAO25651.1; -; Genomic_DNA.
+DR   EMBL; CH471074; EAW98892.1; -; Genomic_DNA.
+DR   EMBL; BC039902; AAH39902.1; -; mRNA.
+DR   EMBL; BC048094; AAH48094.2; -; mRNA.
+DR   EMBL; AL110224; CAB53682.1; -; mRNA.
+DR   CCDS; CCDS14169.1; -. [Q9BYF1-1]
+DR   PIR; T14762; T14762.
+DR   RefSeq; NP_068576.1; NM_021804.2. [Q9BYF1-1]
+DR   PDB; 1R42; X-ray; 2.20 A; A=1-615.
+DR   PDB; 1R4L; X-ray; 3.00 A; A=1-615.
+DR   PDB; 1XJP; Model; -; B=19-615.
+DR   PDB; 2AJF; X-ray; 2.90 A; A/B=19-615.
+DR   PDB; 3D0G; X-ray; 2.80 A; A/B=56-615.
+DR   PDB; 3D0H; X-ray; 3.10 A; A/B=56-615.
+DR   PDB; 3D0I; X-ray; 2.90 A; A/B=56-615.
+DR   PDB; 3KBH; X-ray; 3.31 A; A/B/C/D=19-615.
+DR   PDB; 3SCI; X-ray; 2.90 A; A/B=19-615.
+DR   PDB; 3SCJ; X-ray; 3.00 A; A/B=19-615.
+DR   PDB; 3SCK; X-ray; 3.00 A; A/B=83-615.
+DR   PDB; 3SCL; X-ray; 3.00 A; A/B=83-615.
+DR   PDB; 6ACG; EM; 5.40 A; D=19-615.
+DR   PDB; 6ACJ; EM; 4.20 A; D=19-615.
+DR   PDB; 6ACK; EM; 4.50 A; D=19-615.
+DR   PDB; 6CS2; EM; 4.40 A; D=19-615.
+DR   PDB; 6M0J; X-ray; 2.45 A; A=19-615.
+DR   PDB; 6M17; EM; 2.90 A; B/D=18-805.
+DR   PDB; 6M18; EM; 2.90 A; B/D=18-805.
+DR   PDB; 6M1D; EM; 4.50 A; B/D=18-805.
+DR   PDB; 6VW1; X-ray; 2.68 A; A/B=19-615.
+DR   PDBsum; 1R42; -.
+DR   PDBsum; 1R4L; -.
+DR   PDBsum; 1XJP; -.
+DR   PDBsum; 2AJF; -.
+DR   PDBsum; 3D0G; -.
+DR   PDBsum; 3D0H; -.
+DR   PDBsum; 3D0I; -.
+DR   PDBsum; 3KBH; -.
+DR   PDBsum; 3SCI; -.
+DR   PDBsum; 3SCJ; -.
+DR   PDBsum; 3SCK; -.
+DR   PDBsum; 3SCL; -.
+DR   PDBsum; 6ACG; -.
+DR   PDBsum; 6ACJ; -.
+DR   PDBsum; 6ACK; -.
+DR   PDBsum; 6CS2; -.
+DR   PDBsum; 6M0J; -.
+DR   PDBsum; 6M17; -.
+DR   PDBsum; 6M18; -.
+DR   PDBsum; 6M1D; -.
+DR   PDBsum; 6VW1; -.
+DR   SMR; Q9BYF1; -.
+DR   BioGRID; 121864; 8.
+DR   ComplexPortal; CPX-5683; SARS-CoV-2 Spike - human ACE2 receptor complex.
+DR   ComplexPortal; CPX-5684; SARS-CoV-2 Spike - human ACE2-SLC6A19 complex.
+DR   ComplexPortal; CPX-5695; SARS-CoV Spike - human ACE2 receptor complex.
+DR   DIP; DIP-44689N; -.
+DR   IntAct; Q9BYF1; 16.
+DR   MINT; Q9BYF1; -.
+DR   STRING; 9606.ENSP00000389326; -.
+DR   BindingDB; Q9BYF1; -.
+DR   ChEMBL; CHEMBL3736; -.
+DR   DrugBank; DB00691; Moexipril.
+DR   DrugBank; DB05203; SPP1148.
+DR   GuidetoPHARMACOLOGY; 1614; -.
+DR   MEROPS; M02.006; -.
+DR   TCDB; 2.A.22.6.3; the neurotransmitter:sodium symporter (nss) family.
+DR   GlyConnect; 1012; -.
+DR   iPTMnet; Q9BYF1; -.
+DR   PhosphoSitePlus; Q9BYF1; -.
+DR   BioMuta; ACE2; -.
+DR   DMDM; 71658783; -.
+DR   jPOST; Q9BYF1; -.
+DR   MassIVE; Q9BYF1; -.
+DR   PaxDb; Q9BYF1; -.
+DR   PeptideAtlas; Q9BYF1; -.
+DR   PRIDE; Q9BYF1; -.
+DR   ProteomicsDB; 79634; -. [Q9BYF1-1]
+DR   ProteomicsDB; 79635; -. [Q9BYF1-2]
+DR   Antibodypedia; 344; 903 antibodies.
+DR   Ensembl; ENST00000252519; ENSP00000252519; ENSG00000130234. [Q9BYF1-1]
+DR   Ensembl; ENST00000427411; ENSP00000389326; ENSG00000130234. [Q9BYF1-1]
+DR   GeneID; 59272; -.
+DR   KEGG; hsa:59272; -.
+DR   UCSC; uc004cxa.2; human. [Q9BYF1-1]
+DR   CTD; 59272; -.
+DR   DisGeNET; 59272; -.
+DR   EuPathDB; HostDB:ENSG00000130234.10; -.
+DR   GeneCards; ACE2; -.
+DR   HGNC; HGNC:13557; ACE2.
+DR   HPA; ENSG00000130234; Tissue enriched (intestine).
+DR   MIM; 300335; gene.
+DR   neXtProt; NX_Q9BYF1; -.
+DR   OpenTargets; ENSG00000130234; -.
+DR   PharmGKB; PA425; -.
+DR   eggNOG; KOG3690; Eukaryota.
+DR   eggNOG; ENOG410XPJ3; LUCA.
+DR   GeneTree; ENSGT00940000158077; -.
+DR   HOGENOM; CLU_014364_3_0_1; -.
+DR   InParanoid; Q9BYF1; -.
+DR   KO; K09708; -.
+DR   OMA; RWWEMKR; -.
+DR   OrthoDB; 422699at2759; -.
+DR   PhylomeDB; Q9BYF1; -.
+DR   TreeFam; TF312861; -.
+DR   BRENDA; 3.4.15.1; 2681.
+DR   BRENDA; 3.4.17.23; 2681.
+DR   Reactome; R-HSA-2022377; Metabolism of Angiotensinogen to Angiotensins.
+DR   SABIO-RK; Q9BYF1; -.
+DR   SIGNOR; Q9BYF1; -.
+DR   BioGRID-ORCS; 59272; 1 hit in 413 CRISPR screens.
+DR   ChiTaRS; ACE2; human.
+DR   EvolutionaryTrace; Q9BYF1; -.
+DR   GeneWiki; Angiotensin-converting_enzyme_2; -.
+DR   GenomeRNAi; 59272; -.
+DR   Pharos; Q9BYF1; Tchem.
+DR   PRO; PR:Q9BYF1; -.
+DR   Proteomes; UP000005640; Chromosome X.
+DR   RNAct; Q9BYF1; protein.
+DR   Bgee; ENSG00000130234; Expressed in jejunal mucosa and 128 other tissues.
+DR   Genevisible; Q9BYF1; HS.
+DR   GO; GO:0031526; C:brush border membrane; IEA:Ensembl.
+DR   GO; GO:0009986; C:cell surface; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; IDA:UniProtKB.
+DR   GO; GO:0005615; C:extracellular space; IDA:BHF-UCL.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0045121; C:membrane raft; TAS:BHF-UCL.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0004180; F:carboxypeptidase activity; IDA:UniProtKB.
+DR   GO; GO:0008239; F:dipeptidyl-peptidase activity; IBA:GO_Central.
+DR   GO; GO:0004175; F:endopeptidase activity; IDA:UniProtKB.
+DR   GO; GO:0008238; F:exopeptidase activity; IBA:GO_Central.
+DR   GO; GO:0004181; F:metallocarboxypeptidase activity; EXP:Reactome.
+DR   GO; GO:0001618; F:virus receptor activity; IDA:BHF-UCL.
+DR   GO; GO:0008270; F:zinc ion binding; TAS:BHF-UCL.
+DR   GO; GO:0002003; P:angiotensin maturation; TAS:Reactome.
+DR   GO; GO:0003051; P:angiotensin-mediated drinking behavior; IMP:BHF-UCL.
+DR   GO; GO:0051957; P:positive regulation of amino acid transport; IMP:UniProtKB.
+DR   GO; GO:0060452; P:positive regulation of cardiac muscle contraction; IEA:Ensembl.
+DR   GO; GO:1903598; P:positive regulation of gap junction assembly; IMP:BHF-UCL.
+DR   GO; GO:2000379; P:positive regulation of reactive oxygen species metabolic process; IC:BHF-UCL.
+DR   GO; GO:0032800; P:receptor biosynthetic process; IMP:BHF-UCL.
+DR   GO; GO:0046813; P:receptor-mediated virion attachment to host cell; IDA:BHF-UCL.
+DR   GO; GO:0097746; P:regulation of blood vessel diameter; IC:BHF-UCL.
+DR   GO; GO:1903779; P:regulation of cardiac conduction; IMP:BHF-UCL.
+DR   GO; GO:0042127; P:regulation of cell population proliferation; TAS:BHF-UCL.
+DR   GO; GO:0001817; P:regulation of cytokine production; IC:BHF-UCL.
+DR   GO; GO:0050727; P:regulation of inflammatory response; IC:BHF-UCL.
+DR   GO; GO:0003081; P:regulation of systemic arterial blood pressure by renin-angiotensin; IMP:BHF-UCL.
+DR   GO; GO:0019229; P:regulation of vasoconstriction; IC:BHF-UCL.
+DR   GO; GO:0015827; P:tryptophan transport; IEA:Ensembl.
+DR   GO; GO:0046718; P:viral entry into host cell; TAS:UniProtKB.
+DR   CDD; cd06461; M2_ACE; 1.
+DR   InterPro; IPR031588; Collectrin_dom.
+DR   InterPro; IPR001548; Peptidase_M2.
+DR   PANTHER; PTHR10514; PTHR10514; 1.
+DR   Pfam; PF16959; Collectrin; 1.
+DR   Pfam; PF01401; Peptidase_M2; 1.
+DR   PRINTS; PR00791; PEPDIPTASEA.
+DR   PROSITE; PS00142; ZINC_PROTEASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Carboxypeptidase; Cell membrane;
+KW   Chloride; Cytoplasm; Direct protein sequencing; Disulfide bond;
+KW   Glycoprotein; Host cell receptor for virus entry; Host-virus interaction;
+KW   Hydrolase; Membrane; Metal-binding; Metalloprotease; Polymorphism;
+KW   Protease; Receptor; Reference proteome; Secreted; Signal; Transmembrane;
+KW   Transmembrane helix; Zinc.
+FT   SIGNAL          1..17
+FT                   /evidence="ECO:0000255"
+FT   CHAIN           18..805
+FT                   /note="Angiotensin-converting enzyme 2"
+FT                   /id="PRO_0000028570"
+FT   CHAIN           18..708
+FT                   /note="Processed angiotensin-converting enzyme 2"
+FT                   /id="PRO_0000292268"
+FT   TOPO_DOM        18..740
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        741..761
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        762..805
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   REGION          30..41
+FT                   /note="Interaction with SARS-CoV spike glycoprotein"
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   REGION          82..84
+FT                   /note="Interaction with SARS-CoV spike glycoprotein"
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   REGION          345..346
+FT                   /note="Substrate binding"
+FT                   /evidence="ECO:0000305|PubMed:14754895"
+FT   REGION          353..357
+FT                   /note="Interaction with SARS-CoV spike glycoprotein"
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   REGION          652..659
+FT                   /note="Essential for cleavage by ADAM17"
+FT                   /evidence="ECO:0000269|PubMed:24227843"
+FT   REGION          697..716
+FT                   /note="Essential for cleavage by TMPRSS11D and TMPRSS2"
+FT                   /evidence="ECO:0000269|PubMed:24227843"
+FT   ACT_SITE        375
+FT                   /note="Proton acceptor"
+FT                   /evidence="ECO:0000305|PubMed:14754895,
+FT                   ECO:0000305|PubMed:27217402"
+FT   ACT_SITE        505
+FT                   /note="Proton donor"
+FT                   /evidence="ECO:0000305|PubMed:14754895"
+FT   METAL           374
+FT                   /note="Zinc; catalytic"
+FT                   /evidence="ECO:0000269|PubMed:14754895"
+FT   METAL           378
+FT                   /note="Zinc; catalytic"
+FT                   /evidence="ECO:0000269|PubMed:14754895"
+FT   METAL           402
+FT                   /note="Zinc; catalytic"
+FT                   /evidence="ECO:0000269|PubMed:14754895"
+FT   BINDING         169
+FT                   /note="Chloride"
+FT                   /evidence="ECO:0000269|PubMed:14754895,
+FT                   ECO:0000305|PubMed:19021774"
+FT   BINDING         273
+FT                   /note="Substrate"
+FT                   /evidence="ECO:0000305|PubMed:14754895"
+FT   BINDING         477
+FT                   /note="Chloride"
+FT                   /evidence="ECO:0000269|PubMed:14754895,
+FT                   ECO:0000305|PubMed:19021774"
+FT   BINDING         481
+FT                   /note="Chloride"
+FT                   /evidence="ECO:0000269|PubMed:14754895,
+FT                   ECO:0000305|PubMed:19021774"
+FT   BINDING         515
+FT                   /note="Substrate"
+FT                   /evidence="ECO:0000305|PubMed:14754895"
+FT   CARBOHYD        53
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000305|PubMed:14754895"
+FT   CARBOHYD        90
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:14754895,
+FT                   ECO:0000269|PubMed:15084671"
+FT   CARBOHYD        103
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:14754895"
+FT   CARBOHYD        322
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000305|PubMed:14754895"
+FT   CARBOHYD        432
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:14754895"
+FT   CARBOHYD        546
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:14754895,
+FT                   ECO:0000269|PubMed:19159218"
+FT   CARBOHYD        690
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        133..141
+FT                   /evidence="ECO:0000269|PubMed:14754895"
+FT   DISULFID        344..361
+FT                   /evidence="ECO:0000269|PubMed:14754895"
+FT   DISULFID        530..542
+FT                   /evidence="ECO:0000269|PubMed:14754895"
+FT   VAR_SEQ         555
+FT                   /note="F -> L (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:12975309"
+FT                   /id="VSP_014901"
+FT   VAR_SEQ         556..805
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:12975309"
+FT                   /id="VSP_014902"
+FT   VARIANT         26
+FT                   /note="K -> R (in dbSNP:rs4646116)"
+FT                   /evidence="ECO:0000269|Ref.9"
+FT                   /id="VAR_023082"
+FT   VARIANT         638
+FT                   /note="N -> S (in dbSNP:rs183135788)"
+FT                   /evidence="ECO:0000269|PubMed:15937940"
+FT                   /id="VAR_023083"
+FT   MUTAGEN         24..26
+FT                   /note="QAK->KAE: Slightly inhibits interaction with SARS-
+FT                   CoV spike glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         31
+FT                   /note="K->D: Abolishes interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         37
+FT                   /note="E->A: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         38
+FT                   /note="D->A: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         41
+FT                   /note="Y->A: Strongly inhibits interaction with SARS-CoV
+FT                   spike glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         68
+FT                   /note="K->D: Slightly inhibits interaction with SARS-CoV
+FT                   spike glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         82..84
+FT                   /note="MYP->NFS: Inhibits interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         110
+FT                   /note="E->P: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         135..136
+FT                   /note="PD->SM: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         160
+FT                   /note="E->R: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         169
+FT                   /note="R->Q: About 95% loss of angiotensin I cleavage."
+FT                   /evidence="ECO:0000269|PubMed:19021774"
+FT   MUTAGEN         192
+FT                   /note="R->D: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         219
+FT                   /note="R->D: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         239
+FT                   /note="H->Q: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         271
+FT                   /note="W->Q: About 95% loss of angiotensin I cleavage."
+FT                   /evidence="ECO:0000269|PubMed:19021774"
+FT   MUTAGEN         273
+FT                   /note="R->Q: Complete loss of enzyme activity. Does not
+FT                   affect amino acid transport activity of SLC6A19."
+FT                   /evidence="ECO:0000269|PubMed:16008552,
+FT                   ECO:0000269|PubMed:19185582"
+FT   MUTAGEN         309
+FT                   /note="K->D: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         312
+FT                   /note="E->A: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         324
+FT                   /note="T->A: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         338..340
+FT                   /note="NVQ->DDR: No effect on interaction with SARS-CoV
+FT                   spike glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         345
+FT                   /note="H->A: Complete loss of enzyme activity."
+FT                   /evidence="ECO:0000269|PubMed:16008552"
+FT   MUTAGEN         350
+FT                   /note="D->A: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         353
+FT                   /note="K->H,A,D: Abolishes interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         355
+FT                   /note="D->A: Strongly inhibits interaction with SARS-CoV
+FT                   spike glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         357
+FT                   /note="R->A: Strongly inhibits interaction with SARS-CoV
+FT                   spike glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         359
+FT                   /note="L->K,A: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         383
+FT                   /note="M->A: Slightly inhibits interaction with SARS-CoV
+FT                   spike glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         389
+FT                   /note="P->A: Slightly inhibits interaction with SARS-CoV
+FT                   spike glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         393
+FT                   /note="R->A: Slightly inhibits interaction with SARS-CoV
+FT                   spike glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         425..427
+FT                   /note="SPD->PSN: Slightly inhibits interaction with SARS-
+FT                   CoV spike glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         465..467
+FT                   /note="KGE->QDK: No effect on interaction with SARS-CoV
+FT                   spike glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         481
+FT                   /note="K->Q: About 80% loss of angiotensin I cleavage."
+FT                   /evidence="ECO:0000269|PubMed:19021774"
+FT   MUTAGEN         505
+FT                   /note="H->A: Complete loss of enzyme activity."
+FT                   /evidence="ECO:0000269|PubMed:16008552"
+FT   MUTAGEN         514
+FT                   /note="R->Q: About 50% loss of angiotensin I cleavage but
+FT                   two-fold greater activity with angiotensin II."
+FT                   /evidence="ECO:0000269|PubMed:19021774"
+FT   MUTAGEN         559
+FT                   /note="R->S: Slightly inhibits interaction with SARS-CoV
+FT                   spike glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   MUTAGEN         603
+FT                   /note="F->T: No effect on interaction with SARS-CoV spike
+FT                   glycoprotein."
+FT                   /evidence="ECO:0000269|PubMed:15791205"
+FT   CONFLICT        18
+FT                   /note="Q -> H (in Ref. 12; CAB53682)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        508
+FT                   /note="N -> D (in Ref. 8; AAQ89076)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        631
+FT                   /note="K -> R (in Ref. 5; BAB40370)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           23..52
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           56..77
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   TURN            78..82
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           85..87
+FT                   /evidence="ECO:0000244|PDB:3D0G"
+FT   HELIX           91..100
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           104..107
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           110..129
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   STRAND          131..134
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   STRAND          137..143
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   TURN            144..146
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           148..154
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           158..171
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           173..193
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   STRAND          196..198
+FT                   /evidence="ECO:0000244|PDB:1R4L"
+FT   HELIX           199..204
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   TURN            205..207
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   TURN            213..215
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           220..251
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   TURN            253..255
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   STRAND          258..260
+FT                   /evidence="ECO:0000244|PDB:3SCJ"
+FT   HELIX           264..266
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   STRAND          267..271
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           276..278
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           279..282
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   TURN            284..287
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   TURN            294..297
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           298..300
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           304..316
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   TURN            317..319
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           327..330
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   STRAND          338..340
+FT                   /evidence="ECO:0000244|PDB:3D0G"
+FT   STRAND          347..352
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   STRAND          355..359
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           366..384
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   TURN            385..387
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           390..392
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           400..413
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           415..420
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   TURN            422..426
+FT                   /evidence="ECO:0000244|PDB:1R4L"
+FT   HELIX           432..446
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           449..465
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   STRAND          466..468
+FT                   /evidence="ECO:0000244|PDB:1R4L"
+FT   HELIX           470..472
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           473..483
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   STRAND          486..488
+FT                   /evidence="ECO:0000244|PDB:3D0G"
+FT   HELIX           499..502
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           504..507
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           514..531
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   TURN            532..534
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           539..541
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           548..558
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   TURN            559..562
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           566..574
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   STRAND          575..578
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   HELIX           582..598
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   STRAND          600..602
+FT                   /evidence="ECO:0000244|PDB:1R42"
+FT   STRAND          607..609
+FT                   /evidence="ECO:0000244|PDB:1R42"
+SQ   SEQUENCE   805 AA;  92463 MW;  8EE6EB0A931550E8 CRC64;
+     MSSSSWLLLS LVAVTAAQST IEEQAKTFLD KFNHEAEDLF YQSSLASWNY NTNITEENVQ
+     NMNNAGDKWS AFLKEQSTLA QMYPLQEIQN LTVKLQLQAL QQNGSSVLSE DKSKRLNTIL
+     NTMSTIYSTG KVCNPDNPQE CLLLEPGLNE IMANSLDYNE RLWAWESWRS EVGKQLRPLY
+     EEYVVLKNEM ARANHYEDYG DYWRGDYEVN GVDGYDYSRG QLIEDVEHTF EEIKPLYEHL
+     HAYVRAKLMN AYPSYISPIG CLPAHLLGDM WGRFWTNLYS LTVPFGQKPN IDVTDAMVDQ
+     AWDAQRIFKE AEKFFVSVGL PNMTQGFWEN SMLTDPGNVQ KAVCHPTAWD LGKGDFRILM
+     CTKVTMDDFL TAHHEMGHIQ YDMAYAAQPF LLRNGANEGF HEAVGEIMSL SAATPKHLKS
+     IGLLSPDFQE DNETEINFLL KQALTIVGTL PFTYMLEKWR WMVFKGEIPK DQWMKKWWEM
+     KREIVGVVEP VPHDETYCDP ASLFHVSNDY SFIRYYTRTL YQFQFQEALC QAAKHEGPLH
+     KCDISNSTEA GQKLFNMLRL GKSEPWTLAL ENVVGAKNMN VRPLLNYFEP LFTWLKDQNK
+     NSFVGWSTDW SPYADQSIKV RISLKSALGD KAYEWNDNEM YLFRSSVAYA MRQYFLKVKN
+     QMILFGEEDV RVANLKPRIS FNFFVTAPKN VSDIIPRTEV EKAIRMSRSR INDAFRLNDN
+     SLEFLGIQPT LGPPNQPPVS IWLIVFGVVM GVIVVGIVIL IFTGIRDRKK KNKARSGENP
+     YASIDISKGE NNPGFQNTDD VQTSF
+//
