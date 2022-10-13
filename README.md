@@ -1,5 +1,10 @@
 # Personal Projects
-Bioinformatics, health informatics, data science, open science and other innovations 
+Bioinformatics, health informatics, data science, open science, ML&AI, and other innovations 
+
+# Programming (mother of them all)
+- Python
+- R
+- MySql
 
 # Bioinformatics
 - Evolutionary biology 
@@ -21,6 +26,10 @@ Bioinformatics, health informatics, data science, open science and other innovat
 # Open science
 - Open data 
 - Reproducibility and replicability
+
+# ML&AI
+- Web ontology
+- Knowledge representation
 
 # Other inventions
 - MaterDB
