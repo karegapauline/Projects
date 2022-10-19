@@ -1,0 +1,90 @@
+Oct-13 17:59:16.047 [main] DEBUG nextflow.cli.Launcher - $> nextflow run hello.nf
+Oct-13 17:59:16.257 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 22.04.5
+Oct-13 17:59:16.511 [main] DEBUG nextflow.cli.CmdRun - Applied DSL=2 by global default
+Oct-13 17:59:16.564 [main] INFO  nextflow.cli.CmdRun - Launching `hello.nf` [condescending_babbage] DSL2 - revision: c13c6f13f7
+Oct-13 17:59:16.609 [main] DEBUG nextflow.plugin.PluginsFacade - Setting up plugin manager > mode=prod; plugins-dir=/home/karegapauline/.nextflow/plugins; core-plugins: nf-amazon@1.7.2,nf-azure@0.13.2,nf-console@1.0.3,nf-ga4gh@1.0.3,nf-google@1.1.4,nf-sqldb@0.4.0,nf-tower@1.4.0
+Oct-13 17:59:16.613 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins default=[]
+Oct-13 17:59:16.648 [main] INFO  org.pf4j.DefaultPluginStatusProvider - Enabled plugins: []
+Oct-13 17:59:16.652 [main] INFO  org.pf4j.DefaultPluginStatusProvider - Disabled plugins: []
+Oct-13 17:59:16.662 [main] INFO  org.pf4j.DefaultPluginManager - PF4J version 3.4.1 in 'deployment' mode
+Oct-13 17:59:16.695 [main] INFO  org.pf4j.AbstractPluginManager - No plugins
+Oct-13 17:59:16.850 [main] DEBUG nextflow.Session - Session uuid: 009a8817-bc36-44e7-a035-210c81969370
+Oct-13 17:59:16.850 [main] DEBUG nextflow.Session - Run name: condescending_babbage
+Oct-13 17:59:16.858 [main] DEBUG nextflow.Session - Executor pool size: 4
+Oct-13 17:59:16.951 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 22.04.5 build 5708
+  Created: 15-07-2022 16:09 UTC (19:09 EAST)
+  System: Linux 4.4.0-18362-Microsoft
+  Runtime: Groovy 3.0.10 on OpenJDK 64-Bit Server VM 11.0.16+8-post-Ubuntu-0ubuntu120.04
+  Encoding: UTF-8 (UTF-8)
+  Process: 1767@DESKTOP-R4KCJQ3 [127.0.1.1]
+  CPUs: 4 - Mem: 7.9 GB (1 GB) - Swap: 24 GB (22.8 GB)
+Oct-13 17:59:17.064 [main] DEBUG nextflow.Session - Work-dir: /mnt/c/Users/ADMIN/Desktop/Projects/Coursera_pyscripts/Epigenetics_training/work [wslfs]
+Oct-13 17:59:17.064 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /mnt/c/Users/ADMIN/Desktop/Projects/Coursera_pyscripts/Epigenetics_training/bin
+Oct-13 17:59:17.089 [main] DEBUG nextflow.executor.ExecutorFactory - Extension executors providers=[]
+Oct-13 17:59:17.126 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Oct-13 17:59:17.221 [main] DEBUG nextflow.cache.CacheFactory - Using Nextflow cache factory: nextflow.cache.DefaultCacheFactory
+Oct-13 17:59:17.493 [main] DEBUG nextflow.util.CustomThreadPool - Creating default thread pool > poolSize: 5; maxThreads: 1000
+Oct-13 17:59:18.053 [main] DEBUG nextflow.Session - Session start invoked
+Oct-13 17:59:20.121 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+Oct-13 17:59:20.444 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Oct-13 17:59:20.444 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Oct-13 17:59:20.457 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+Oct-13 17:59:20.469 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=4; memory=7.9 GB; capacity=4; pollInterval=100ms; dumpInterval=5m
+Oct-13 17:59:20.736 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Oct-13 17:59:20.736 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Oct-13 17:59:20.791 [main] DEBUG nextflow.Session - Workflow process names [dsl2]: sayHello, split
+Oct-13 17:59:20.792 [main] DEBUG nextflow.Session - Ignite dataflow network (3)
+Oct-13 17:59:20.793 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > sayHello
+Oct-13 17:59:20.804 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > split
+Oct-13 17:59:20.804 [main] DEBUG nextflow.script.ScriptRunner - > Await termination 
+Oct-13 17:59:20.805 [main] DEBUG nextflow.Session - Session await
+Oct-13 17:59:21.254 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Oct-13 17:59:21.265 [Task submitter] INFO  nextflow.Session - [8f/9aa315] Submitted process > sayHello (1)
+Oct-13 17:59:21.290 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Oct-13 17:59:21.294 [Task submitter] INFO  nextflow.Session - [3f/af2a89] Submitted process > sayHello (3)
+Oct-13 17:59:21.335 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Oct-13 17:59:21.367 [Task submitter] INFO  nextflow.Session - [b3/679018] Submitted process > sayHello (2)
+Oct-13 17:59:21.438 [Task submitter] DEBUG nextflow.executor.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Oct-13 17:59:21.451 [Task submitter] INFO  nextflow.Session - [38/25ed7c] Submitted process > sayHello (4)
+Oct-13 17:59:22.210 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 3; name: sayHello (3); status: COMPLETED; exit: 2; error: -; workDir: /mnt/c/Users/ADMIN/Desktop/Projects/Coursera_pyscripts/Epigenetics_training/work/3f/af2a899b9ca4d4e9677bdac664bfb1]
+Oct-13 17:59:22.314 [Task monitor] ERROR nextflow.processor.TaskProcessor - Error executing process > 'sayHello (3)'
+
+Caused by:
+  Process `sayHello (3)` terminated with an error exit status (2)
+
+Command executed:
+
+  print "Hello world!"
+
+Command exit status:
+  2
+
+Command output:
+  (empty)
+
+Command error:
+  Error: no such file "Hello world!"
+
+Work dir:
+  /mnt/c/Users/ADMIN/Desktop/Projects/Coursera_pyscripts/Epigenetics_training/work/3f/af2a899b9ca4d4e9677bdac664bfb1
+
+Tip: when you have fixed the problem you can continue the execution adding the option `-resume` to the run command line
+Oct-13 17:59:22.330 [Task monitor] DEBUG nextflow.Session - Session aborted -- Cause: Process `sayHello (3)` terminated with an error exit status (2)
+Oct-13 17:59:22.410 [Task monitor] DEBUG nextflow.Session - The following nodes are still active:
+[process] split
+  status=ACTIVE
+  port 0: (queue) OPEN  ; channel: y
+  port 1: (cntrl) -     ; channel: $
+
+Oct-13 17:59:22.422 [main] DEBUG nextflow.Session - Session await > all process finished
+Oct-13 17:59:22.423 [main] DEBUG nextflow.Session - Session await > all barriers passed
+Oct-13 17:59:22.426 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 2; name: sayHello (2); status: COMPLETED; exit: 2; error: -; workDir: /mnt/c/Users/ADMIN/Desktop/Projects/Coursera_pyscripts/Epigenetics_training/work/b3/67901839f17daa1efabcd4478fdcc5]
+Oct-13 17:59:22.431 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 4; name: sayHello (4); status: COMPLETED; exit: 2; error: -; workDir: /mnt/c/Users/ADMIN/Desktop/Projects/Coursera_pyscripts/Epigenetics_training/work/38/25ed7cc8a452ad1ea9753cd040cf33]
+Oct-13 17:59:22.454 [main] WARN  n.processor.TaskPollingMonitor - Killing running tasks (1)
+Oct-13 17:59:22.531 [main] DEBUG nextflow.executor.LocalTaskHandler - Unable to kill sayHello (1) -- command: kill -TERM 1849; exit: 1 
+ bash: line 0: kill: (1849) - No such process
+
+Oct-13 17:59:22.537 [main] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=3; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=1; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=2.3s; cachedDuration=0ms;loadCpus=1; loadMemory=0; peakRunning=4; peakCpus=4; peakMemory=0; ]
+Oct-13 17:59:22.985 [main] DEBUG nextflow.cache.CacheDB - Closing CacheDB done
+Oct-13 17:59:23.048 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye
