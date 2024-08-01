@@ -6,3 +6,4 @@ Programming, Reading, Projects, and other things
 - R
 - MySql
 
+Imposter Syndrome and Fear are tiny little joy stealers, happiness suckers, and just plain old stupid idiots. 
