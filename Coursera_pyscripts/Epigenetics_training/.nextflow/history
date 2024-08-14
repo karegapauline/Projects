@@ -1,5 +1,0 @@
-2022-10-13 16:38:21	21.1s	cranky_kimura	OK	4eab81bd42eed592f4371cd91b755ec78df25fe9	87d7a2a8-66d9-4c4a-9435-a3b675d5a52f	nextflow run nextflow-io/hello
-2022-10-13 16:56:44	47.6s	kickass_euclid	OK	af1645c64345657dbed8ddbee2659191	bbee8a0e-44a5-4c0a-a3e5-7bde2e1b195f	nextflow run create_channel.nf
-2022-10-13 17:38:17	20.8s	stoic_bohr	ERR	7710eb73e817a191eba839242222ba8e	7f885776-4d6a-4a8e-8fc4-2132924040d9	nextflow run hello.nf
-2022-10-13 17:57:24	6.7s	sharp_mestorf	ERR	e0adbe206bab54745cd458eabfab4da5	2b5e4c5c-9e3e-4ab0-b0ce-266441bb6cdc	nextflow run hello.nf
-2022-10-13 17:59:16	7s	condescending_babbage	ERR	c13c6f13f7b47aeb782cef193eab3e90	009a8817-bc36-44e7-a035-210c81969370	nextflow run hello.nf
