@@ -4,7 +4,8 @@ Programming, Work, Projects, and other things
 # Programming 
 - Python
 - SQL
-- JavaScript
+- JavaScript: javascript_learn
+* We had a long weekend so I made this dragon game from freecodecamp. Felt pretty cool. It was tedious, giving everything functionality, one button having many many things. It was fun though. Try playing it here: javascript_learn/dragon_game_freecodecamp. I'll personalize it at some point, or find another game prompt to try.    
 
 # Work
 Health and Environment Research (Figuring this out fast and slow). 
