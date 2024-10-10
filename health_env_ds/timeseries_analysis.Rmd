@@ -1,0 +1,43 @@
+---
+title: "multi time-series-learn"
+author: "KaregaPau"
+date: "2024-10-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(tidyquant)
+library(timetk)
+library(sweep)
+library(forecast)
+
+View(bike_sales)
+str(bike_sales)
+##analyse monthly sales trend 
+##transform dataset by aggregating by month
+
+bike_sales_monthly <- bike_sales %>%
+  mutate(month=month(order.date, label= TRUE),
+         year=year(order.date))%>%
+  group_by(year, month) %>%
+  summarise(total.qty = sum(quantity))
+
+  
+bike_sales_monthly
+```
+
+```{r}
+bike_sales_monthly %>% 
+  ggplot(aes(x=month, y=total.qty, group = year)) +
+  geom_area(aes(fill = year), position = "stack") +
+  labs(title = "Quantity sold: Month plot", x = "", y = "Sales",
+       subtitle = "March through July tend to be most active") +
+  scale_y_continuous() +
+  theme_grey()
+```
+
