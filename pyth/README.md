@@ -5,3 +5,7 @@
 4. proj4: The case converter.
 5. proj5: The expense tracker.
 6. proj6: First freelance project. Array input and search.
+
+
+I got to the evaluation stage of this platform and freaked out stiff!! Dude!! I'll work on the evaluation. If I fail I'll try it again. 
+Positive side: finished my writing now I am doin analysis yayyyyyy!!! New beast to slay :-)
